@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "clang-format.fallbackStyle": "Google",
+  "code-runner.languageIdToFileExtensionMap": {
+    "bat": ".bat",
+    "powershell": ".ps1",
+    "typescript": ".ts"
+  }
+}
